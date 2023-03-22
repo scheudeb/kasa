@@ -1,7 +1,11 @@
-import styles from './style.module.css';
+import styles from '../About/styles.module.css';
 import Banner from '../../components/Banner';
 import Collapse from '../../components/Collapse';
 // import BannerImage from '../../assets/images/IMG_ABOUT_PAGE.png';
+
+/************************************************/
+//*  corps de page About                        */
+/************************************************/
 
 // contenu texte des collapse
 const principles = [

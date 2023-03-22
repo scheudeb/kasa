@@ -1,9 +1,6 @@
 import styles from '../Banner/styles.module.css';
 import PropTypes from 'prop-types';
 
-/************************************************/
-//*  Composant Banner                           */
-/************************************************/
 
 const Banner = ({ children, slideshow }) => (
   <section
