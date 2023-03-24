@@ -26,12 +26,10 @@
 }
 /* bannière de la page Home */
 .bannerWrapperTitle {
-    composes: bannerWrapper;
     background-image: url("../../assets/images/IMG_HOME_PAGE.png");
 }
 /* bannière utilisée avec SlideShow */
 .bannerWrapperSlideShow {
-    composes: bannerWrapper;
     padding-top: 33.47%;
     background-image: none;
 }
@@ -62,12 +60,10 @@
     }
     /* bannière de la page Home */
     .bannerWrapperTitle {
-        composes: bannerWrapper;
         padding-top: 25%;
     }
     /* bannière utilisée avec SlideShow */
     .bannerWrapperSlideShow {
-        composes: bannerWrapper;
         padding-top: 50%;
     }
     /* contenu de la bannière Home*/

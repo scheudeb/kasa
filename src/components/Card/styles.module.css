@@ -49,7 +49,7 @@
 @media screen and (max-width: 768px) {
     /* conteneur de la carte */
     .cardWrapper {
-        max-width: 335px;
+        max-width: 100%;
     }
     /* titre de la carte */
     .cardTitle {

@@ -2,7 +2,6 @@
 /* déclaration des variables */
 :root {
   --LineHeight: 142.6%;
-  /* palette de couleurs */
   --PrimaryColor: #FF6060;
   --SecondaryColor: #FFFFFF;
   --LightBackgroundColor: #F6F6F6;
@@ -15,7 +14,6 @@
 }
 
 body {
-  width: 100vw;
   margin: 0;
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
