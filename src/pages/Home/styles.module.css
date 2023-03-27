@@ -17,9 +17,8 @@
     grid-auto-rows: 340px;
     column-gap: 60px;
     justify-content: center;
-    row-gap: 50px;
     background-color: var(--LightBackgroundColor);
-    padding: 56px 50px;
+    padding: 50px 50px 20px 50px;
     margin: 43px auto;
     border-radius: 25px;
 }
@@ -33,7 +32,8 @@
     /* conteneur des cartes appartements */
     .gallery {
         grid-template-columns: repeat(2, 1fr);
-        justify-items: center;      
+        justify-items: center;
+        padding-bottom: 0;      
     }
 }
 
@@ -56,7 +56,7 @@
         row-gap: 20px;
         background-color: var(--SecondaryColor);
         padding: 0;
-        margin: 22px auto;
-        border-radius: 0;      
+        margin: 30px auto;
+        border-radius: 0;    
     }
 }
